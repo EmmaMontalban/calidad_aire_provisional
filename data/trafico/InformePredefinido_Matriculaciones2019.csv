@@ -1,0 +1,121 @@
+Matriculaciones según carburante y mes.
+Comunidad Autónoma/Provincia formalización: Madrid (Comunidad de)/Madrid
+Carburante: Otros, Gasolina, Gas Natural Licuado, Diesel, Eléctrico, Gas Natural Comprimido, Biodiesel, Gasolina, Etanol, Hidrógeno, Gas Licuado de Petroleo, Diesel, Biometano, Diesel, Diesel
+Mes: Enero, Febrero, Marzo, Abril, Mayo, Junio, Julio, Agosto, Septiembre, Octubre, Noviembre, Diciembre
+
+Comunidad Autónoma/Provincia formalización;Carburante;Mes;Total
+TOTAL;TOTAL;TOTAL;496403
+Madrid (Comunidad de)/Madrid;TOTAL;TOTAL;496403
+Madrid (Comunidad de)/Madrid;Biometano;TOTAL;1
+Madrid (Comunidad de)/Madrid;Biometano;Septiembre;1
+Madrid (Comunidad de)/Madrid;Butano;TOTAL;24
+Madrid (Comunidad de)/Madrid;Butano;Enero;2
+Madrid (Comunidad de)/Madrid;Butano;Febrero;3
+Madrid (Comunidad de)/Madrid;Butano;Marzo;2
+Madrid (Comunidad de)/Madrid;Butano;Abril;2
+Madrid (Comunidad de)/Madrid;Butano;Mayo;4
+Madrid (Comunidad de)/Madrid;Butano;Junio;2
+Madrid (Comunidad de)/Madrid;Butano;Julio;1
+Madrid (Comunidad de)/Madrid;Butano;Agosto;2
+Madrid (Comunidad de)/Madrid;Butano;Septiembre;2
+Madrid (Comunidad de)/Madrid;Butano;Octubre;2
+Madrid (Comunidad de)/Madrid;Butano;Noviembre;2
+Madrid (Comunidad de)/Madrid;Diesel;TOTAL;197514
+Madrid (Comunidad de)/Madrid;Diesel;Enero;13656
+Madrid (Comunidad de)/Madrid;Diesel;Febrero;16131
+Madrid (Comunidad de)/Madrid;Diesel;Marzo;18083
+Madrid (Comunidad de)/Madrid;Diesel;Abril;19203
+Madrid (Comunidad de)/Madrid;Diesel;Mayo;20546
+Madrid (Comunidad de)/Madrid;Diesel;Junio;19063
+Madrid (Comunidad de)/Madrid;Diesel;Julio;16845
+Madrid (Comunidad de)/Madrid;Diesel;Agosto;12079
+Madrid (Comunidad de)/Madrid;Diesel;Septiembre;12510
+Madrid (Comunidad de)/Madrid;Diesel;Octubre;16193
+Madrid (Comunidad de)/Madrid;Diesel;Noviembre;15447
+Madrid (Comunidad de)/Madrid;Diesel;Diciembre;17758
+Madrid (Comunidad de)/Madrid;Eléctrico;TOTAL;14285
+Madrid (Comunidad de)/Madrid;Eléctrico;Enero;638
+Madrid (Comunidad de)/Madrid;Eléctrico;Febrero;812
+Madrid (Comunidad de)/Madrid;Eléctrico;Marzo;1277
+Madrid (Comunidad de)/Madrid;Eléctrico;Abril;1056
+Madrid (Comunidad de)/Madrid;Eléctrico;Mayo;1136
+Madrid (Comunidad de)/Madrid;Eléctrico;Junio;2262
+Madrid (Comunidad de)/Madrid;Eléctrico;Julio;1775
+Madrid (Comunidad de)/Madrid;Eléctrico;Agosto;432
+Madrid (Comunidad de)/Madrid;Eléctrico;Septiembre;1122
+Madrid (Comunidad de)/Madrid;Eléctrico;Octubre;948
+Madrid (Comunidad de)/Madrid;Eléctrico;Noviembre;1956
+Madrid (Comunidad de)/Madrid;Eléctrico;Diciembre;871
+Madrid (Comunidad de)/Madrid;Gas Licuado de Petroleo;TOTAL;13296
+Madrid (Comunidad de)/Madrid;Gas Licuado de Petroleo;Enero;1106
+Madrid (Comunidad de)/Madrid;Gas Licuado de Petroleo;Febrero;1171
+Madrid (Comunidad de)/Madrid;Gas Licuado de Petroleo;Marzo;1311
+Madrid (Comunidad de)/Madrid;Gas Licuado de Petroleo;Abril;1389
+Madrid (Comunidad de)/Madrid;Gas Licuado de Petroleo;Mayo;1140
+Madrid (Comunidad de)/Madrid;Gas Licuado de Petroleo;Junio;1459
+Madrid (Comunidad de)/Madrid;Gas Licuado de Petroleo;Julio;1274
+Madrid (Comunidad de)/Madrid;Gas Licuado de Petroleo;Agosto;1150
+Madrid (Comunidad de)/Madrid;Gas Licuado de Petroleo;Septiembre;1447
+Madrid (Comunidad de)/Madrid;Gas Licuado de Petroleo;Octubre;856
+Madrid (Comunidad de)/Madrid;Gas Licuado de Petroleo;Noviembre;538
+Madrid (Comunidad de)/Madrid;Gas Licuado de Petroleo;Diciembre;455
+Madrid (Comunidad de)/Madrid;Gas Natural Comprimido;TOTAL;4665
+Madrid (Comunidad de)/Madrid;Gas Natural Comprimido;Enero;149
+Madrid (Comunidad de)/Madrid;Gas Natural Comprimido;Febrero;113
+Madrid (Comunidad de)/Madrid;Gas Natural Comprimido;Marzo;247
+Madrid (Comunidad de)/Madrid;Gas Natural Comprimido;Abril;371
+Madrid (Comunidad de)/Madrid;Gas Natural Comprimido;Mayo;546
+Madrid (Comunidad de)/Madrid;Gas Natural Comprimido;Junio;500
+Madrid (Comunidad de)/Madrid;Gas Natural Comprimido;Julio;531
+Madrid (Comunidad de)/Madrid;Gas Natural Comprimido;Agosto;380
+Madrid (Comunidad de)/Madrid;Gas Natural Comprimido;Septiembre;382
+Madrid (Comunidad de)/Madrid;Gas Natural Comprimido;Octubre;528
+Madrid (Comunidad de)/Madrid;Gas Natural Comprimido;Noviembre;497
+Madrid (Comunidad de)/Madrid;Gas Natural Comprimido;Diciembre;421
+Madrid (Comunidad de)/Madrid;Gas Natural Licuado;TOTAL;15
+Madrid (Comunidad de)/Madrid;Gas Natural Licuado;Enero;4
+Madrid (Comunidad de)/Madrid;Gas Natural Licuado;Febrero;4
+Madrid (Comunidad de)/Madrid;Gas Natural Licuado;Junio;1
+Madrid (Comunidad de)/Madrid;Gas Natural Licuado;Julio;3
+Madrid (Comunidad de)/Madrid;Gas Natural Licuado;Agosto;3
+Madrid (Comunidad de)/Madrid;Gasolina;TOTAL;265429
+Madrid (Comunidad de)/Madrid;Gasolina;Enero;20534
+Madrid (Comunidad de)/Madrid;Gasolina;Febrero;23288
+Madrid (Comunidad de)/Madrid;Gasolina;Marzo;29134
+Madrid (Comunidad de)/Madrid;Gasolina;Abril;28515
+Madrid (Comunidad de)/Madrid;Gasolina;Mayo;27207
+Madrid (Comunidad de)/Madrid;Gasolina;Junio;31415
+Madrid (Comunidad de)/Madrid;Gasolina;Julio;22449
+Madrid (Comunidad de)/Madrid;Gasolina;Agosto;11378
+Madrid (Comunidad de)/Madrid;Gasolina;Septiembre;15517
+Madrid (Comunidad de)/Madrid;Gasolina;Octubre;16467
+Madrid (Comunidad de)/Madrid;Gasolina;Noviembre;16658
+Madrid (Comunidad de)/Madrid;Gasolina;Diciembre;22867
+Madrid (Comunidad de)/Madrid;Hidrógeno;TOTAL;5
+Madrid (Comunidad de)/Madrid;Hidrógeno;Junio;1
+Madrid (Comunidad de)/Madrid;Hidrógeno;Julio;1
+Madrid (Comunidad de)/Madrid;Hidrógeno;Agosto;1
+Madrid (Comunidad de)/Madrid;Hidrógeno;Noviembre;2
+Madrid (Comunidad de)/Madrid;Otros;TOTAL;24
+Madrid (Comunidad de)/Madrid;Otros;Enero;4
+Madrid (Comunidad de)/Madrid;Otros;Febrero;5
+Madrid (Comunidad de)/Madrid;Otros;Marzo;3
+Madrid (Comunidad de)/Madrid;Otros;Abril;4
+Madrid (Comunidad de)/Madrid;Otros;Mayo;1
+Madrid (Comunidad de)/Madrid;Otros;Junio;1
+Madrid (Comunidad de)/Madrid;Otros;Julio;1
+Madrid (Comunidad de)/Madrid;Otros;Septiembre;3
+Madrid (Comunidad de)/Madrid;Otros;Octubre;2
+Madrid (Comunidad de)/Madrid;Sin especificar;TOTAL;1145
+Madrid (Comunidad de)/Madrid;Sin especificar;Enero;128
+Madrid (Comunidad de)/Madrid;Sin especificar;Febrero;58
+Madrid (Comunidad de)/Madrid;Sin especificar;Marzo;89
+Madrid (Comunidad de)/Madrid;Sin especificar;Abril;123
+Madrid (Comunidad de)/Madrid;Sin especificar;Mayo;104
+Madrid (Comunidad de)/Madrid;Sin especificar;Junio;149
+Madrid (Comunidad de)/Madrid;Sin especificar;Julio;120
+Madrid (Comunidad de)/Madrid;Sin especificar;Agosto;64
+Madrid (Comunidad de)/Madrid;Sin especificar;Septiembre;71
+Madrid (Comunidad de)/Madrid;Sin especificar;Octubre;87
+Madrid (Comunidad de)/Madrid;Sin especificar;Noviembre;98
+Madrid (Comunidad de)/Madrid;Sin especificar;Diciembre;54

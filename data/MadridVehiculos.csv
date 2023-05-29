@@ -1,0 +1,251 @@
+Municipio residencia,Tipo de Vehiculo,Carburante,Total
+Humanes de Madrid,AUTOBUSES,Diesel,15
+Humanes de Madrid,CAMIONES HASTA 3500kg,Diesel,1293
+Humanes de Madrid,CAMIONES HASTA 3500kg,Gas Licuado de Petroleo,18
+Humanes de Madrid,CAMIONES HASTA 3500kg,Gas Natural Comprimido,3
+Humanes de Madrid,CAMIONES HASTA 3500kg,Gas Natural Licuado,1
+Humanes de Madrid,CAMIONES HASTA 3500kg,Gasolina,22
+Humanes de Madrid,CAMIONES MAS DE 3500kg,Diesel,470
+Humanes de Madrid,CAMIONES MAS DE 3500kg,Gas Licuado de Petroleo,4
+Humanes de Madrid,CAMIONES MAS DE 3500kg,Gas Natural Licuado,2
+Humanes de Madrid,CAMIONES MAS DE 3500kg,Gasolina,3
+Humanes de Madrid,CICLOMOTORES,Diesel,11
+Humanes de Madrid,CICLOMOTORES,Electrico,6
+Humanes de Madrid,CICLOMOTORES,Gasolina,190
+Humanes de Madrid,FURGONETAS,Diesel,1596
+Humanes de Madrid,FURGONETAS,Electrico,5
+Humanes de Madrid,FURGONETAS,Gas Licuado de Petroleo,35
+Humanes de Madrid,FURGONETAS,Gas Natural Comprimido,8
+Humanes de Madrid,FURGONETAS,Gasolina,168
+Humanes de Madrid,MOTOCICLETAS,Electrico,7
+Humanes de Madrid,MOTOCICLETAS,Gasolina,833
+Humanes de Madrid,OTROS VEHiCULOS,Diesel,185
+Humanes de Madrid,OTROS VEHiCULOS,Electrico,23
+Humanes de Madrid,OTROS VEHiCULOS,Gas Licuado de Petroleo,1
+Humanes de Madrid,OTROS VEHiCULOS,Gasolina,49
+Humanes de Madrid,OTROS VEHiCULOS,Sin especificar,2
+Humanes de Madrid,REMOLQUES,Sin especificar,127
+Humanes de Madrid,SEMIRREMOLQUES,Sin especificar,153
+Humanes de Madrid,TRACTORES INDUSTRIALES,Diesel,112
+Humanes de Madrid,TURISMOS,Diesel,7208
+Humanes de Madrid,TURISMOS,Electrico,59
+Humanes de Madrid,TURISMOS,Gas Licuado de Petroleo,118
+Humanes de Madrid,TURISMOS,Gas Natural Comprimido,24
+Humanes de Madrid,TURISMOS,Gasolina,4454
+Humanes de Madrid,TURISMOS,Sin especificar,1
+Madrid,AUTOBUSES,Butano,1
+Madrid,AUTOBUSES,Diesel,4350
+Madrid,AUTOBUSES,Electrico,279
+Madrid,AUTOBUSES,Gas Licuado de Petroleo,3
+Madrid,AUTOBUSES,Gas Natural Comprimido,1943
+Madrid,AUTOBUSES,Gas Natural Licuado,1
+Madrid,AUTOBUSES,Gasolina,22
+Madrid,AUTOBUSES,Hidrogeno,2
+Madrid,AUTOBUSES,Otros,73
+Madrid,CAMIONES HASTA 3500kg,Butano,1
+Madrid,CAMIONES HASTA 3500kg,Diesel,62809
+Madrid,CAMIONES HASTA 3500kg,Electrico,533
+Madrid,CAMIONES HASTA 3500kg,Gas Licuado de Petroleo,570
+Madrid,CAMIONES HASTA 3500kg,Gas Natural Comprimido,254
+Madrid,CAMIONES HASTA 3500kg,Gasolina,2173
+Madrid,CAMIONES HASTA 3500kg,Otros,6
+Madrid,CAMIONES HASTA 3500kg,Sin especificar,2
+Madrid,CAMIONES MAS DE 3500kg,Diesel,16869
+Madrid,CAMIONES MAS DE 3500kg,Electrico,30
+Madrid,CAMIONES MAS DE 3500kg,Gas Licuado de Petroleo,40
+Madrid,CAMIONES MAS DE 3500kg,Gas Natural Comprimido,1093
+Madrid,CAMIONES MAS DE 3500kg,Gas Natural Licuado,33
+Madrid,CAMIONES MAS DE 3500kg,Gasolina,219
+Madrid,CAMIONES MAS DE 3500kg,Hidrogeno,6
+Madrid,CAMIONES MAS DE 3500kg,Otros,6
+Madrid,CICLOMOTORES,Diesel,1220
+Madrid,CICLOMOTORES,Electrico,3178
+Madrid,CICLOMOTORES,Gas Natural Licuado,2
+Madrid,CICLOMOTORES,Gasolina,39766
+Madrid,CICLOMOTORES,Sin especificar,2
+Madrid,FURGONETAS,Butano,2
+Madrid,FURGONETAS,Diesel,94985
+Madrid,FURGONETAS,Electrico,1143
+Madrid,FURGONETAS,Gas Licuado de Petroleo,1400
+Madrid,FURGONETAS,Gas Natural Comprimido,593
+Madrid,FURGONETAS,Gasolina,28369
+Madrid,FURGONETAS,Otros,6
+Madrid,FURGONETAS,Sin especificar,3
+Madrid,MOTOCICLETAS,Butano,4
+Madrid,MOTOCICLETAS,Diesel,324
+Madrid,MOTOCICLETAS,Electrico,9383
+Madrid,MOTOCICLETAS,Gas Licuado de Petroleo,19
+Madrid,MOTOCICLETAS,Gas Natural Comprimido,2
+Madrid,MOTOCICLETAS,Gas Natural Licuado,1
+Madrid,MOTOCICLETAS,Gasolina,221226
+Madrid,MOTOCICLETAS,Otros,3
+Madrid,MOTOCICLETAS,Sin especificar,7
+Madrid,OTROS VEHiCULOS,Biometano,3
+Madrid,OTROS VEHiCULOS,Butano,1
+Madrid,OTROS VEHiCULOS,Diesel,10675
+Madrid,OTROS VEHiCULOS,Electrico,355
+Madrid,OTROS VEHiCULOS,Etanol,1
+Madrid,OTROS VEHiCULOS,Gas Licuado de Petroleo,21
+Madrid,OTROS VEHiCULOS,Gas Natural Comprimido,39
+Madrid,OTROS VEHiCULOS,Gasolina,4530
+Madrid,OTROS VEHiCULOS,Otros,67
+Madrid,OTROS VEHiCULOS,Sin especificar,496
+Madrid,REMOLQUES,Sin especificar,5595
+Madrid,SEMIRREMOLQUES,Sin especificar,6734
+Madrid,TRACTORES INDUSTRIALES,Diesel,5195
+Madrid,TURISMOS,Biodiesel,2
+Madrid,TURISMOS,Biometano,1
+Madrid,TURISMOS,Butano,48
+Madrid,TURISMOS,Diesel,645926
+Madrid,TURISMOS,Electrico,12391
+Madrid,TURISMOS,Etanol,7
+Madrid,TURISMOS,Gas Licuado de Petroleo,14533
+Madrid,TURISMOS,Gas Natural Comprimido,3295
+Madrid,TURISMOS,Gas Natural Licuado,10
+Madrid,TURISMOS,Gasolina,823422
+Madrid,TURISMOS,Hidrogeno,15
+Madrid,TURISMOS,Otros,118
+Madrid,TURISMOS,Sin especificar,17
+Madrid ( municipio sin especificar) ,AUTOBUSES,Gasolina,1
+Madrid ( municipio sin especificar) ,CAMIONES HASTA 3500kg,Diesel,11
+Madrid ( municipio sin especificar) ,CAMIONES MAS DE 3500kg,Diesel,11
+Madrid ( municipio sin especificar) ,CAMIONES MAS DE 3500kg,Gasolina,1
+Madrid ( municipio sin especificar) ,FURGONETAS,Diesel,8
+Madrid ( municipio sin especificar) ,FURGONETAS,Gasolina,21
+Madrid ( municipio sin especificar) ,MOTOCICLETAS,Diesel,2
+Madrid ( municipio sin especificar) ,MOTOCICLETAS,Gasolina,17
+Madrid ( municipio sin especificar) ,REMOLQUES,Sin especificar,1
+Madrid ( municipio sin especificar) ,SEMIRREMOLQUES,Sin especificar,2
+Madrid ( municipio sin especificar) ,TRACTORES INDUSTRIALES,Diesel,3
+Madrid ( municipio sin especificar) ,TURISMOS,Diesel,10
+Madrid ( municipio sin especificar) ,TURISMOS,Gasolina,118
+Madridanos,AUTOBUSES,Diesel,32
+Madridanos,CAMIONES HASTA 3500kg,Diesel,20
+Madridanos,CAMIONES HASTA 3500kg,Gas Licuado de Petroleo,1
+Madridanos,CICLOMOTORES,Gasolina,26
+Madridanos,FURGONETAS,Diesel,22
+Madridanos,FURGONETAS,Gasolina,9
+Madridanos,MOTOCICLETAS,Gasolina,33
+Madridanos,OTROS VEHiCULOS,Diesel,9
+Madridanos,OTROS VEHiCULOS,Gasolina,3
+Madridanos,REMOLQUES,Sin especificar,3
+Madridanos,TRACTORES INDUSTRIALES,Diesel,1
+Madridanos,TURISMOS,Diesel,218
+Madridanos,TURISMOS,Gasolina,108
+Madridejos,AUTOBUSES,Diesel,1
+Madridejos,CAMIONES HASTA 3500kg,Diesel,1027
+Madridejos,CAMIONES HASTA 3500kg,Gasolina,11
+Madridejos,CAMIONES MAS DE 3500kg,Diesel,106
+Madridejos,CICLOMOTORES,Diesel,37
+Madridejos,CICLOMOTORES,Electrico,1
+Madridejos,CICLOMOTORES,Gasolina,468
+Madridejos,CICLOMOTORES,Sin especificar,2
+Madridejos,FURGONETAS,Diesel,697
+Madridejos,FURGONETAS,Electrico,2
+Madridejos,FURGONETAS,Gas Licuado de Petroleo,1
+Madridejos,FURGONETAS,Gasolina,88
+Madridejos,MOTOCICLETAS,Electrico,1
+Madridejos,MOTOCICLETAS,Gasolina,437
+Madridejos,OTROS VEHiCULOS,Diesel,133
+Madridejos,OTROS VEHiCULOS,Electrico,1
+Madridejos,OTROS VEHiCULOS,Gasolina,77
+Madridejos,OTROS VEHiCULOS,Sin especificar,2
+Madridejos,REMOLQUES,Sin especificar,60
+Madridejos,SEMIRREMOLQUES,Sin especificar,136
+Madridejos,TRACTORES INDUSTRIALES,Diesel,130
+Madridejos,TURISMOS,Diesel,4346
+Madridejos,TURISMOS,Electrico,6
+Madridejos,TURISMOS,Gas Licuado de Petroleo,13
+Madridejos,TURISMOS,Gas Natural Comprimido,2
+Madridejos,TURISMOS,Gasolina,1452
+Rivas-Vaciamadrid,AUTOBUSES,Diesel,8
+Rivas-Vaciamadrid,CAMIONES HASTA 3500kg,Diesel,1707
+Rivas-Vaciamadrid,CAMIONES HASTA 3500kg,Electrico,7
+Rivas-Vaciamadrid,CAMIONES HASTA 3500kg,Gas Licuado de Petroleo,13
+Rivas-Vaciamadrid,CAMIONES HASTA 3500kg,Gas Natural Comprimido,16
+Rivas-Vaciamadrid,CAMIONES HASTA 3500kg,Gasolina,36
+Rivas-Vaciamadrid,CAMIONES MAS DE 3500kg,Diesel,346
+Rivas-Vaciamadrid,CAMIONES MAS DE 3500kg,Gas Licuado de Petroleo,1
+Rivas-Vaciamadrid,CAMIONES MAS DE 3500kg,Gas Natural Comprimido,5
+Rivas-Vaciamadrid,CAMIONES MAS DE 3500kg,Gas Natural Licuado,4
+Rivas-Vaciamadrid,CAMIONES MAS DE 3500kg,Gasolina,1
+Rivas-Vaciamadrid,CICLOMOTORES,Diesel,21
+Rivas-Vaciamadrid,CICLOMOTORES,Electrico,29
+Rivas-Vaciamadrid,CICLOMOTORES,Gasolina,739
+Rivas-Vaciamadrid,FURGONETAS,Diesel,2839
+Rivas-Vaciamadrid,FURGONETAS,Electrico,26
+Rivas-Vaciamadrid,FURGONETAS,Gas Licuado de Petroleo,76
+Rivas-Vaciamadrid,FURGONETAS,Gas Natural Comprimido,18
+Rivas-Vaciamadrid,FURGONETAS,Gasolina,305
+Rivas-Vaciamadrid,MOTOCICLETAS,Diesel,15
+Rivas-Vaciamadrid,MOTOCICLETAS,Electrico,43
+Rivas-Vaciamadrid,MOTOCICLETAS,Gas Licuado de Petroleo,1
+Rivas-Vaciamadrid,MOTOCICLETAS,Gasolina,5555
+Rivas-Vaciamadrid,OTROS VEHiCULOS,Diesel,381
+Rivas-Vaciamadrid,OTROS VEHiCULOS,Electrico,14
+Rivas-Vaciamadrid,OTROS VEHiCULOS,Gasolina,143
+Rivas-Vaciamadrid,OTROS VEHiCULOS,Sin especificar,4
+Rivas-Vaciamadrid,REMOLQUES,Sin especificar,283
+Rivas-Vaciamadrid,SEMIRREMOLQUES,Sin especificar,218
+Rivas-Vaciamadrid,TRACTORES INDUSTRIALES,Diesel,166
+Rivas-Vaciamadrid,TURISMOS,Butano,1
+Rivas-Vaciamadrid,TURISMOS,Diesel,26055
+Rivas-Vaciamadrid,TURISMOS,Electrico,594
+Rivas-Vaciamadrid,TURISMOS,Gas Licuado de Petroleo,667
+Rivas-Vaciamadrid,TURISMOS,Gas Natural Comprimido,137
+Rivas-Vaciamadrid,TURISMOS,Gasolina,21642
+Rivas-Vaciamadrid,TURISMOS,Hidrogeno,1
+Rivas-Vaciamadrid,TURISMOS,Otros,4
+Rivas-Vaciamadrid,TURISMOS,Sin especificar,3
+Rozas de Madrid,AUTOBUSES,Diesel,35
+Rozas de Madrid,CAMIONES HASTA 3500kg,Diesel,1186
+Rozas de Madrid,CAMIONES HASTA 3500kg,Electrico,2
+Rozas de Madrid,CAMIONES HASTA 3500kg,Gas Licuado de Petroleo,11
+Rozas de Madrid,CAMIONES HASTA 3500kg,Gas Natural Comprimido,1
+Rozas de Madrid,CAMIONES HASTA 3500kg,Gasolina,54
+Rozas de Madrid,CAMIONES MAS DE 3500kg,Diesel,160
+Rozas de Madrid,CAMIONES MAS DE 3500kg,Gas Licuado de Petroleo,2
+Rozas de Madrid,CAMIONES MAS DE 3500kg,Gas Natural Comprimido,2
+Rozas de Madrid,CAMIONES MAS DE 3500kg,Gasolina,1
+Rozas de Madrid,CICLOMOTORES,Diesel,153
+Rozas de Madrid,CICLOMOTORES,Electrico,37
+Rozas de Madrid,CICLOMOTORES,Gasolina,930
+Rozas de Madrid,FURGONETAS,Butano,1
+Rozas de Madrid,FURGONETAS,Diesel,3120
+Rozas de Madrid,FURGONETAS,Electrico,25
+Rozas de Madrid,FURGONETAS,Gas Licuado de Petroleo,43
+Rozas de Madrid,FURGONETAS,Gas Natural Comprimido,9
+Rozas de Madrid,FURGONETAS,Gasolina,706
+Rozas de Madrid,MOTOCICLETAS,Diesel,14
+Rozas de Madrid,MOTOCICLETAS,Electrico,70
+Rozas de Madrid,MOTOCICLETAS,Gas Licuado de Petroleo,1
+Rozas de Madrid,MOTOCICLETAS,Gasolina,7057
+Rozas de Madrid,MOTOCICLETAS,Otros,1
+Rozas de Madrid,OTROS VEHiCULOS,Diesel,1108
+Rozas de Madrid,OTROS VEHiCULOS,Electrico,10
+Rozas de Madrid,OTROS VEHiCULOS,Gasolina,114
+Rozas de Madrid,OTROS VEHiCULOS,Otros,1
+Rozas de Madrid,OTROS VEHiCULOS,Sin especificar,4
+Rozas de Madrid,REMOLQUES,Sin especificar,145
+Rozas de Madrid,SEMIRREMOLQUES,Sin especificar,47
+Rozas de Madrid,TRACTORES INDUSTRIALES,Diesel,51
+Rozas de Madrid,TURISMOS,Biodiesel,1
+Rozas de Madrid,TURISMOS,Diesel,23761
+Rozas de Madrid,TURISMOS,Electrico,1186
+Rozas de Madrid,TURISMOS,Gas Licuado de Petroleo,446
+Rozas de Madrid,TURISMOS,Gas Natural Comprimido,74
+Rozas de Madrid,TURISMOS,Gas Natural Licuado,3
+Rozas de Madrid,TURISMOS,Gasolina,26028
+Rozas de Madrid,TURISMOS,Hidrogeno,1
+Rozas de Madrid,TURISMOS,Otros,2
+Rozas de Madrid,TURISMOS,Sin especificar,1
+Valmadrid,CAMIONES HASTA 3500kg,Diesel,10
+Valmadrid,CAMIONES HASTA 3500kg,Gasolina,1
+Valmadrid,CICLOMOTORES,Gasolina,6
+Valmadrid,FURGONETAS,Diesel,9
+Valmadrid,FURGONETAS,Gasolina,4
+Valmadrid,MOTOCICLETAS,Gasolina,10
+Valmadrid,OTROS VEHiCULOS,Diesel,1
+Valmadrid,OTROS VEHiCULOS,Gasolina,3
+Valmadrid,TURISMOS,Diesel,39
+Valmadrid,TURISMOS,Gasolina,19
