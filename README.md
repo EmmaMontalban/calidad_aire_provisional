@@ -66,10 +66,14 @@
           Se han seleccionado los siguientes contaminantes atmósfericos porque son los que se necesitan para calcular el índice de calidad del aire (ICA)
             MAGNITUD    DESCRIPCION                TECNICA DE MEDIDA
             01          SO2: Dióxido de Azufre     38 Fluorescencia ultravioleta
+            06          CO: Monóxido de Carbono    48 Absorción infrarroja
             08          NO2: Dióxido de Nitrógeno  08 Quimioluminiscencia  
             09          PM2.5: Partículas < 2.5 μm 47 Microbalanza
             10          PM10: Partículas < 10 μm   47 Microbalanza
             14          O3: Ozono                  06 Absorción ultravioleta 
+            20          TOL: Tolueno               59 Cromatografía de gases
+            30          BEN: Benceno               59 Cromatografía de gases
+            35          EBE: Etilbenceno           59 Cromatografía de gases
 
     * Estaciones de control 
       - Documentación de referencia 
