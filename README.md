@@ -125,9 +125,9 @@ El análisis se complementa con un **informe interactivo en Power BI**, donde se
 
 ---
 🔬 **Este estudio busca entender mejor cómo la calidad del aire afecta nuestra salud y proporcionar herramientas para la toma de decisiones públicas y personales.** 💡💚
-## Contacto
 
 ---
+## Contacto
 Para consultas o colaboraciones, contactar a cualquiera de los integrantes del equipo.
 
 ## 📌 Grupo 1:
